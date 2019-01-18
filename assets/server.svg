@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 448 385">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-SERVER);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #707070;
+        stroke-linecap: round;
+        stroke-width: 4px;
+        stroke-dasharray: 15 14;
+      }
+
+      .cls-5 {
+        fill: #3bc3ff;
+      }
+
+      .cls-6 {
+        fill: #ff2020;
+      }
+
+      .cls-7 {
+        fill: #00a2e9;
+      }
+
+      .cls-8 {
+        fill: #00344b;
+      }
+
+      .cls-9 {
+        fill: #008fce;
+      }
+
+      .cls-10 {
+        fill: #00ffd4;
+      }
+
+      .cls-11 {
+        fill: #003851;
+      }
+
+      .cls-12 {
+        fill: #00b1ff;
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-14 {
+        fill: #d1d1d1;
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.872" y1="0.566" x2="-0.798" y2="0.66" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e5e5e5" stop-opacity="0.22"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="9.587" height="95.587"/>
+    </clipPath>
+    <clipPath id="clip-SERVER">
+      <rect width="448" height="385"/>
+    </clipPath>
+  </defs>
+  <g id="SERVER" class="cls-2">
+    <rect class="cls-15" width="448" height="385"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-66.5 -22.45)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-3" width="196" height="106" transform="translate(301 224)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-4" x2="95" y2="53" transform="translate(130.5 137.5)"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(-10 65.423)">
+        <path id="Path_1" data-name="Path 1" class="cls-5" d="M0,0,55.261,14.547l15.55,56.264L14.83,54.978Z" transform="translate(196.668 133.521) rotate(-45)"/>
+        <path id="Path_6" data-name="Path 6" class="cls-6" d="M0,0,2.485.654l.7,2.53L.667,2.473Z" transform="translate(201.156 133.521) rotate(-45)"/>
+        <path id="Path_2" data-name="Path 2" class="cls-7" d="M0,0,55.261,14.547l15.55,56.264L14.83,54.978Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 196.705, 133.489)"/>
+        <path id="Path_7" data-name="Path 7" class="cls-8" d="M0,0,3.6.948,4.613,4.613.966,3.582Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 199.109, 138.027)"/>
+        <path id="Path_8" data-name="Path 8" class="cls-8" d="M0,0,3.6.948,4.613,4.613.966,3.582Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 199.109, 171.027)"/>
+        <path id="Path_3" data-name="Path 3" class="cls-9" d="M0,0,56.6,14.655,70.811,70.811,14.83,54.978Z" transform="matrix(-0.259, -0.966, 0.966, -0.259, 246.703, 220.215)"/>
+        <path id="Path_5" data-name="Path 5" class="cls-10" d="M0,.356,45.888,0l1.961,3.483H1.76Z" transform="translate(204.087 140.248) rotate(30)"/>
+        <path id="Path_5-2" data-name="Path 5" class="cls-10" d="M0,.356,45.888,0l1.961,3.483H1.76Z" transform="translate(204.087 153.58) rotate(30)"/>
+        <path id="Path_5-3" data-name="Path 5" class="cls-10" d="M0,.356,45.888,0l1.961,3.483H1.76Z" transform="translate(204.087 173.58) rotate(30)"/>
+        <path id="Path_5-4" data-name="Path 5" class="cls-10" d="M0,.356,45.888,0l1.961,3.483H1.76Z" transform="translate(204.087 186.912) rotate(30)"/>
+        <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-11" cx="11.944" cy="16.666" rx="11.944" ry="16.666" transform="translate(264.218 158.024) rotate(14)"/>
+      </g>
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1-2" data-name="Path 1" class="cls-5" d="M1.314.722l99.473,26.186,27.992,101.279-100.77-28.5Z" transform="translate(209.863 174) rotate(-45)"/>
+        <path id="Path_6-2" data-name="Path 6" class="cls-6" d="M1.314.722,5.788,1.9,7.047,6.454,2.515,5.173Z" transform="translate(217.941 174) rotate(-45)"/>
+        <path id="Path_2-2" data-name="Path 2" class="cls-12" d="M1.314.722l99.473,26.186,27.992,101.279-100.77-28.5Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 210.286, 172.488)"/>
+        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-13" transform="translate(213.64 181.788)">
+          <g transform="translate(-213.64 -181.788)">
+            <path id="Path_4" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -169.788)">
+            <path id="Path_4-2" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -157.788)">
+            <path id="Path_4-3" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -145.788)">
+            <path id="Path_4-4" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -133.788)">
+            <path id="Path_4-5" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -121.788)">
+            <path id="Path_4-6" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -109.788)">
+            <path id="Path_4-7" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+          <g transform="translate(-213.64 -97.788)">
+            <path id="Path_4-8" data-name="Path 4" class="cls-14" d="M1.314.722,7.422,2.33,9.141,8.549,2.953,6.8Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 214.584, 180.751)"/>
+          </g>
+        </g>
+        <path id="Path_3-2" data-name="Path 3" class="cls-9" d="M1.314.722,103.191,27.1l25.588,101.086-100.77-28.5Z" transform="matrix(-0.259, -0.966, 0.966, -0.259, 301.011, 331.093)"/>
+        <path id="Path_5-5" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 186.95) rotate(30)"/>
+        <path id="Path_5-6" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 198.95) rotate(30)"/>
+        <path id="Path_5-7" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 210.95) rotate(30)"/>
+        <path id="Path_5-8" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 222.95) rotate(30)"/>
+        <path id="Path_5-9" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 234.95) rotate(30)"/>
+        <path id="Path_5-10" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 246.95) rotate(30)"/>
+        <path id="Path_5-11" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 258.95) rotate(30)"/>
+        <path id="Path_5-12" data-name="Path 5" class="cls-10" d="M-3.361,1.127l82.6-.641L82.77,6.755H-.192Z" transform="translate(227.809 270.95) rotate(30)"/>
+        <ellipse id="Ellipse_1-2" data-name="Ellipse 1" class="cls-11" cx="21.5" cy="30" rx="21.5" ry="30" transform="translate(332.896 217.69) rotate(14)"/>
+      </g>
+      <line id="Line_1" data-name="Line 1" class="cls-4" x2="95" y2="53" transform="translate(333.5 244.5)"/>
+    </g>
+  </g>
+</svg>
